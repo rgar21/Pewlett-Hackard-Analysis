@@ -18,9 +18,6 @@ The intent of this analysis is to compile tables that will display information f
 
 ## Summary
 
-At this moment the "silver tsunami" is threatening to wipe over 60% of our workforce over the coming years. We are simply not prepared for this type of turnover in so many senior positions. 
+At this moment the "silver tsunami" is threatening to wipe over 60% of our workforce over the coming years. We are simply not prepared for this type of turnover in so many senior positions. Compounding this issue is the fact that we do not have enough qualified employees to enter the mentorship program. Let alone, enticing each eligible mentor to sign on will be another task. 
 
-
-Cross reference individual departments in the retirement title and eligibility to cross reference even more
-
-
+My current recommendation is to run another query that will further breakdown our retiring_titles chart by job department in order to better help us understand what departments will need to be focused on the most. Secondly, I recommend that we run a similar query to find the number of eligible mentors per department and compare them to the number of new employees needed per department.
